@@ -1,0 +1,11 @@
+C:\Users\NSS31\workspaceC-35\TheFamilyDictionary\obj\Debug\netcoreapp3.0\TheFamilyDictionary.csprojAssemblyReference.cache
+C:\Users\NSS31\workspaceC-35\TheFamilyDictionary\obj\Debug\netcoreapp3.0\TheFamilyDictionary.AssemblyInfoInputs.cache
+C:\Users\NSS31\workspaceC-35\TheFamilyDictionary\obj\Debug\netcoreapp3.0\TheFamilyDictionary.AssemblyInfo.cs
+C:\Users\NSS31\workspaceC-35\TheFamilyDictionary\bin\Debug\netcoreapp3.0\TheFamilyDictionary.exe
+C:\Users\NSS31\workspaceC-35\TheFamilyDictionary\bin\Debug\netcoreapp3.0\TheFamilyDictionary.deps.json
+C:\Users\NSS31\workspaceC-35\TheFamilyDictionary\bin\Debug\netcoreapp3.0\TheFamilyDictionary.runtimeconfig.json
+C:\Users\NSS31\workspaceC-35\TheFamilyDictionary\bin\Debug\netcoreapp3.0\TheFamilyDictionary.runtimeconfig.dev.json
+C:\Users\NSS31\workspaceC-35\TheFamilyDictionary\bin\Debug\netcoreapp3.0\TheFamilyDictionary.dll
+C:\Users\NSS31\workspaceC-35\TheFamilyDictionary\bin\Debug\netcoreapp3.0\TheFamilyDictionary.pdb
+C:\Users\NSS31\workspaceC-35\TheFamilyDictionary\obj\Debug\netcoreapp3.0\TheFamilyDictionary.dll
+C:\Users\NSS31\workspaceC-35\TheFamilyDictionary\obj\Debug\netcoreapp3.0\TheFamilyDictionary.pdb
